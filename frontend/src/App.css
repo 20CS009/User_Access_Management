@@ -1,0 +1,10 @@
+:root{
+  --primary-color:#fe8704;
+}
+
+.text-main{
+  color: var(--primary-color);
+}
+.text-muted{
+  color: #9d9c9c !important;
+}
